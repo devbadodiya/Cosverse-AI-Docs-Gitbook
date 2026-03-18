@@ -1,0 +1,11 @@
+instances:
+  - url: cosverse.docs.buildwithfern.com
+
+navigation:
+  - page: Welcome
+    path: docs/pages/welcome.mdx
+
+colors:
+  accent-primary:
+    light: "#2dd4bf"
+    dark: "#14b8a6"
