@@ -1,19 +1,9 @@
 instances:
   - url: cosverse.docs.buildwithfern.com
-
 navigation:
-  - page: Welcome
+  - page: Welcome to Cosverse AI Docs
     path: docs/pages/welcome.mdx
-
 colors:
   accent-primary:
-    light: "#2dd4bf"
-    dark: "#14b8a6"
-  background:
-    light: "#ffffff"
-    dark: "#000000"
-title: "Cosverse AI Docs"
-favicon: logo cosverse.png
-logo:
-  dark: logo cosverse.png
-  light: logo cosverse.png
+    light: '#2dd4bf'
+    dark: '#14b8a6'
